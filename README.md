@@ -10,7 +10,7 @@
 
 | Lab | Topics | Level |
 |-----|--------|-------|
-| [From Local Container to Cloud Automation](https://mradelvand.github.io/docker/2026/04/27/lab01.html) | Files, Templates, Handlers, Roles, Galaxy | Intermediate |
+| [From Local Container to Cloud Automation](https://mradelvand.github.io/docker/2026/05/15/lab01.html) | React 19 + Vite · Express 5 · Node 20 Alpine · GitHub Codespaces · GitHub Actions | Intermediate |
 
 ## What You'll Learn
 
