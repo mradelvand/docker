@@ -1,8 +1,8 @@
-# The Cloud from the South — Ansible Labs
+# The Cloud from the South — Docker Labs
 
-> Hands-on, production-minded Ansible labs built by Reza — a network and cloud automation engineer.
+> Hands-on, production-minded Docker labs built by Reza — a network and cloud automation engineer.
 
-**Live blog:** [mradelvand.github.io/ansible](https://mradelvand.github.io/docker)
+**Live blog:** [mradelvand.github.io/docker](https://mradelvand.github.io/docker)
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Lab | Topics | Level |
 |-----|--------|-------|
-| [LAB01 — Vagrant + Ansible](https://mradelvand.github.io/ansible/2026/04/27/lab01.html) | Files, Templates, Handlers, Roles, Galaxy | Intermediate |
+| [From Local Container to Cloud Automation](https://mradelvand.github.io/docker/2026/04/27/lab01.html) | Files, Templates, Handlers, Roles, Galaxy | Intermediate |
 
 ## What You'll Learn
 
