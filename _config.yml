@@ -22,7 +22,7 @@ sharing my learning's, so you might find it useful. If you have any questions fe
 #########################################################################################
 theme: "minima"
 url: "https://mradelvand.github.io"
-baseurl: "/ansible"
+baseurl: "/docker"
 rss: rss
 
 kramdown:
